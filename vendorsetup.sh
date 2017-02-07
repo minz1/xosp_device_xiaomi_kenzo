@@ -1,0 +1,2 @@
+add_lunch_combo xosp_kenzo-userdebug
+add_lunch_combo xosp_kenzo-eng
